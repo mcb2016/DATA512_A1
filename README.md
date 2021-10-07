@@ -23,3 +23,5 @@ pagecount_mobile_views - the mobile views for the wikipedia page via the PageCou
 pageview_all_views - Both the desktop and mobile views for the wikipedia page via the PageView API
 pageview_desktop_views - the desktop views for the wikipedia page via the PageView API
 pageview_mobile_views - the mobile views for the wikipedia page via the PageView API
+
+NOTE: Unlike the PageCount API, the PageView API excludes interaction with either spiders or crawlers. Please keep this in mind for this project.
